@@ -6,7 +6,7 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Jefferson Quispe pianres is a  Master Student of Computer Science at San Pablo University Catholic and Bachelor of Informatic Engineering at Universidad Nacional San Antonio Abad del Cusco.
+Jefferson Quispe Pinares is a  Master Student of Computer Science at San Pablo University Catholic and Bachelor of Informatic Engineering at Universidad Nacional San Antonio Abad del Cusco.
 Worked as a _developer and Chieff Technologic Officer at [CCAIJO](http://ccaijo.org.pe/), Growth Hacker at [Ruta del barroco Andino - SEMPA](https://rutadelbarrocoandino.com) and teacher in many Education Institutes.
 Loves technology, soccer and running. Likes teach, takes pictures, meetups and challenges.
 In the last years, has made efforts to learn about Artificial Intelligence.
