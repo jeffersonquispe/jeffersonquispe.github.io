@@ -6,10 +6,10 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Rafael Pacheco is Master of Mathematical and Computational Modelling and Bachelor of Computer Engineering at CEFET-MG.
-Works as a _developer advocate_ at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbot platform.
-Loves technology and soccer. Likes teach, discuss and talk about things that believe.
-In the last years, has made efforts to teach everyone everything that knows about bots and BLiP platform.
+Jefferson Quispe pianres is a  Master Student of Computer Science at San Pablo University Catholic and Bachelor of Informatic Engineering at Universidad Nacional San Antonio Abad del Cusco.
+Worked as a _developer and Chieff Technologic Officer at [CCAIJO](http://ccaijo.org.pe/), Growth Hacker at [Ruta del barroco Andino - SEMPA](https://rutadelbarrocoandino.com) and teacher in many Education Institutes.
+Loves technology, soccer and running. Likes teach, takes pictures, meetups and challenges.
+In the last years, has made efforts to learn about Artificial Intelligence.
 
 <h2><b>Images</b> to events materials</h2>
 
@@ -19,7 +19,7 @@ Some images to be used in marketing materials of any event. There are different 
 
 <h2><b>Full</b> BIO</h2>
 
-Rafael Avelar Pacheco, brazillian, from Sete Lagoas city borned on 1990 December 08 and currently lives at Belo Horizonte. 
+Jefferson Quispe Pinares, Peruvian, from Sete Lagoas city borned on 1990 December 08 and currently lives at Belo Horizonte. 
 Is Bachelor of Computer Engineering and Master of Mathematical and Computational Modelling at CEFET-MG. 
 During the university time moved to Porto city, in Portugal, and studied for a time on Faculdade de Ciências at 
 Universidade do Porto. 
