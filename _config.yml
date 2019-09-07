@@ -7,7 +7,7 @@ description:.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -20,7 +20,7 @@ lattes-url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4479514T
 lattes-pt-url: http://lattes.cnpq.br/6347254071071364
 url: jeffersonquispe.github.io
 
-# your url: http://USERNAME.github.io
+#your url: http://USERNAME.github.io
 real-url: jeffersonquispe.github.io
 permalink: /:title/
 
@@ -33,28 +33,28 @@ analytics-google: 'UA-62025300-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: ravpacheco # enter this from your disqus account
+  shortname: JeffersonQuispe # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: jefferson.quispepinares
 twitter: JeffComQuispe
-google: RafaelPachecoBH
+#google: RafaelPachecoBH
 instagram: ravpachecco
 # pinterest: mypinterest
 linkedin: jefferson-quispe-pinares
 youtube: UCN8zMoUDtRrEI9ri--yu9eQ
-spotify: ravpacheco
+#spotify: ravpacheco
 github: jeffersonquispe
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: 3613766/rafael-pacheco
+#stackoverflow: 3613766/rafael-pacheco
 # quora: userquora
 # reddit: username
 medium: ravpacheco
-vimeo: myvimeo
-strava: mystrava
-flickr: people/148613786@N07/
+#vimeo: myvimeo
+#strava: mystrava
+#flickr: people/148613786@N07/
 email: jeffersonquispep@gmail.com
 
 # lanyrd: mylanyrd
@@ -63,7 +63,7 @@ authors:
     jeffersonquispe:
         name: Jefferson Quispe Pinares
         bio: Be more to serve better
-        external-image: false
+        external-image: true
         picture: assets/images/profile.jpg
         twitter: JeffComQuispe
     
