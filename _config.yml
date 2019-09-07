@@ -60,12 +60,12 @@ email: jeffersonquispep@gmail.com
 # lanyrd: mylanyrd
 
 authors:
-    ravpacheco:
+    jeffersonquispe:
         name: Jefferson Quispe Pinares
         bio: Be more to serve better
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: ravpachecco
+        twitter: JeffComQuispe
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
