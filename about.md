@@ -19,29 +19,16 @@ Some images to be used in marketing materials of any event. There are different 
 
 <h2><b>Full</b> BIO</h2>
 
-Jefferson Quispe Pinares, Peruvian, from Sete Lagoas city borned on 1990 December 08 and currently lives at Belo Horizonte. 
-Is Bachelor of Computer Engineering and Master of Mathematical and Computational Modelling at CEFET-MG. 
-During the university time moved to Porto city, in Portugal, and studied for a time on Faculdade de Ciências at 
-Universidade do Porto. 
-
-Before get in university used to spend free time among study, play video games and soccer. 
-Never played soccer as a professional but had played relevant championships in Brazil, like 
-[JIMI 2007](http://jimi.esportes.mg.gov.br/) and 
-[JIF 2010](http://portal.mec.gov.br/todas-as-noticias/209-noticias/564834057/15469-jogos-vao-reunir-2-mil-alunos-da-rede-federal-em-brasilia).
+Jefferson Quispe Pinares, Peruvian, from Mollendo, Arequipa. I has lived for 20 years.Nowadays, in Arequipa. 
+Is Bachelor of Informatic and Systems Engeneering and Master of Computer Science. 
+During the university was student representative in academic topics. 
 
 Besides a lot of friends, soccer gave skills and great life experiences like: work in a team, control anxiety, never 
 give up and meanly know that some times **you will lose**.
 
-For a long time Was member of _LSI_ - <a href="http://www.lsi.cefetmg.br/">Laboratório de Sistemas Inteligentes</a> at 
-CEFET-MG, developing research projects in Artificial Inteligent, Actors Model and Multi Agent System subjects.
-
 In 2011 had your first professional experience going to work for an important Brazillian Telecom in order to develop 
 software. After return to Brazil, in 2013, started to work at Take where speciallized in build messaging applications. 
 Together with professional activities made some private and social projects, like:
-
-* Co-Founder of JumpWeb - Consulting company specialized in software development.
-* Co-Founder of MyNerdBox - First geek's subscription club in Brazil.
-* Co-Founder of CachorrosBH - Portal to help during the adoption process of dogs and cats at Belo Horizonte. 
 
 <!-- falar sobre apresentações -->
 
