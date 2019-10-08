@@ -1,6 +1,6 @@
 # main text of home
 name: Jefferson Quispe Pinares
-bio: Be more to serve better
+bio: "Be more to serve better"
 
 # twitter summary info
 description: Full-time Master student Computer Science
@@ -14,10 +14,10 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://goo.gl/OFHFV8
-resume-pt-url: https://goo.gl/LRzSG3
-lattes-url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4479514T6&idiomaExibicao=2
-lattes-pt-url: http://lattes.cnpq.br/6347254071071364
+resume-url: https://cutt.ly/VeixJRo
+resume-pt-url: https://cutt.ly/VeixJRo
+lattes-url: 
+lattes-pt-url: 
 url: jeffersonquispe.github.io
 
 #your url: http://USERNAME.github.io
@@ -40,7 +40,7 @@ disqus:
 facebook: jefferson.quispepinares
 twitter: JeffComQuispe
 #google: RafaelPachecoBH
-instagram: ravpachecco
+instagram: jeffqp
 # pinterest: mypinterest
 linkedin: jefferson-quispe-pinares
 youtube: UCN8zMoUDtRrEI9ri--yu9eQ
@@ -51,7 +51,7 @@ github: jeffersonquispe
 #stackoverflow: 3613766/rafael-pacheco
 # quora: userquora
 # reddit: username
-medium: ravpacheco
+medium: jeffersonquispep
 #vimeo: myvimeo
 #strava: mystrava
 #flickr: people/148613786@N07/
