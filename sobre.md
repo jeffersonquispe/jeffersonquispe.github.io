@@ -4,7 +4,7 @@ layout: page
 lang: es
 ref: about
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }}/{{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }})
 
 Jefferson Quispe es estudiante tiemplo completo de maestría en Ciencia de la Computación beca por la CONCYTEC en la Universidad Catòlica San Pablo, ha estudiado Ingenierìa Informàtica y de Sistemas en la Universidad Nacional San Antobio Abad del Cusco.
 Ha trabajo como desarrollador de software en CCAIJO.
