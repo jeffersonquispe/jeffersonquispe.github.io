@@ -26,52 +26,48 @@ During the university was student representative in academic topics.
 Besides a lot of friends, soccer gave skills and great life experiences like: work in a team, control anxiety, never 
 give up and meanly know that some times **you will lose**.
 
-In 2011 had your first professional experience going to work for an important Brazillian Telecom in order to develop 
-software. After return to Brazil, in 2013, started to work at Take where speciallized in build messaging applications. 
-Together with professional activities made some private and social projects, like:
-
 <!-- falar sobre apresentações -->
 
-Nowadays, is *developer advocate* at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbots platform.
+<!-- Nowadays, is *developer advocate* at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbots platform.
 Among other things, helps (direct or indirectly) more than 5000 developers and companies around the world about how to use BLiP to build great 
 conversational applications. From developer intern to technical leader already had different roles. Every weekend keep 
-trying to play soccer and is the forward of [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/).
+trying to play soccer and is the forward of [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/). -->
 
-Some hobbys are: meet different places, read, write, whatch a good movie - especially on movies, write code, 
-browse open source projects, join tech events, play video games and study "unconventional subjects".
+<!--Some hobbys are: meet different places, read, write, whatch a good movie - especially on movies, write code, -->
+<!-- browse open source projects, join tech events, play video games and study "unconventional subjects". -->
 
-Occasionally, writes about programming, chatbots and random subjects in your 
+<!-- Occasionally, writes about programming, chatbots and random subjects in your 
 [personal blog](http://ravpacheco.com/blog/) and sites like [InfoQ](http://infoq.com/), 
 [ChatbotsBrasil](https://chatbotsbrasil.take.net/) and [BotsBrasil](https://medium.com/botsbrasil).
-
+-->
 <div class="breaker"></div>
 
-If you would like subscribe my blog use this <a href="http://ravpacheco.com/feed.xml">RSS</a> feed. 
+<!--If you would like subscribe my blog use this <a href="http://ravpacheco.com/feed.xml">RSS</a> feed. 
 I'm also available in differents social networks: <a href="http://plus.google.com/+RafaelPachecoBH">Google+</a>, <a href="http://twitter.com/ravpachecco">Twitter</a>, <a href="http://facebook.com/ravpacheco">Facebook</a>, <a href="http://linkedin.com/in/ravpacheco">LinkedIn</a>, <a href="http://instagram.com/ravpachecco">Instagram</a>, <a href="http://youtube.com/ravpacheco">YouTube</a>, <a href="https://open.spotify.com/user/ravpacheco">Spotify</a>, <a href="https://github.com/ravpacheco">GitHub</a>, <a href="http://stackoverflow.com/users/3613766/rafael-pacheco">StackOverflow</a>, <a href="http://pt.slideshare.net/RafaelAvelar1">SlideShare</a> e <a href="https://medium.com/@ravpacheco">Medium</a>.
-
-I also have a chatbot (<a href="http://ravpacheco.com/bot">click here</a> if you don't know what is a chatbot) that knows a little bit about me. 
+-->
+<!--I also have a chatbot (<a href="http://ravpacheco.com/bot">click here</a> if you don't know what is a chatbot) that knows a little bit about me. 
 I would love if you try to talk with one of them on Messenger, Telegram, Skype or Blip App.
+-->
 
 <p>
-But, if you just want to email me, go ahead send an email to <b>ravpacheco@gmail.com</b> 😉
+But, if you just want to email me, go ahead send an email to <b>jeffersonquispep@gmail.com</b> 😉
 </p>
  
-<h2>Why <b>ravpacheco</b>?</h2>
+<!--<h2>Why <b>ravpacheco</b>?</h2> -->
 
-<p>Probabbly you are quenstion yourself why my blog and a lot of my social networks identifiers is <b>ravpacheco</b>?
+<!-- <p>Probabbly you are quenstion yourself why my blog and a lot of my social networks identifiers is <b>ravpacheco</b>?
 Simple, this word represents initials of my name <b>R</b>afael <b>Av</b>elar <b>Pacheco</b> :).
-</p>
-
+</p> -->
+<!--
 <h2>Projects</h2>
-
-<ul>
+-->
+<!-- <ul>
 	<li><a href="https://github.com/ravpacheco/tilt">Tilt</a> - <b>T</b>oday <b>I</b> <b>L</b>earned <b>T</b>his. A collection of small and curious things (about programming) that I learned.</li>
 	<li><a href="https://github.com/ravpacheco/resumebot">resumebot</a>. Resume bot is my digital resume as a chatbot created using http://blip.ai plataform.</li>
-</ul>
+</ul>  -->
 
 <h2>Resumes</h2>
 
 <ul class="skill-list">
-	<li><a href="{{ site.resume-url }}">Professional Resume</a></li>
-	<li><a href="{{ site.lattes-url }}">Lattes Resume (academic focus)</a></li>
+	<li><a href="{{ https://drive.google.com/file/d/1wnluNFxUTMTeY5Tv9RnprZyxl3VrEziW/view?usp=sharing}}">Lattes Resume (academic focus)</a></li>
 </ul>
