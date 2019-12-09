@@ -4,7 +4,7 @@ layout: page
 lang: en
 ref: about
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }}/{{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }})
 
 Jefferson Quispe Pinares is a  Master Student of Computer Science at San Pablo University Catholic and Bachelor of Informatic Engineering at Universidad Nacional San Antonio Abad del Cusco.
 Worked as a _developer and Chieff Technologic Officer at [CCAIJO](http://ccaijo.org.pe/), Growth Hacker at [Ruta del barroco Andino - SEMPA](https://rutadelbarrocoandino.com) and teacher in many Education Institutes.
