@@ -4,49 +4,45 @@ layout: page
 lang: es
 ref: about
 ---
-![Profile Image]({{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }}/{{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }})
 
-Jefferson Quispe es estudiante tiemplo completo de maestría en Ciencia de la Computación beca por la CONCYTEC en la Universidad Catòlica San Pablo, ha estudiado Ingenierìa Informàtica y de Sistemas en la Universidad Nacional San Antobio Abad del Cusco.
-Ha trabajo como desarrollador de software en CCAIJO.
+![jefferson](https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg)
 
-<h2><b>Biografia</b> estendida</h2>
+Estudiante tiempo completo (stricto sensu) de Maestría en Ciencia de la Computación becado por Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC), interesado en procesos de automatización con  Inteligencia Artificial, tengo más de cuatro años de experiencia en desarrollo y supervisión de tecnologías de la información, especialista en bases de datos y gestión de información con conocimiento en Analítica de Negocios  y Aprendizaje Automático .
+Apasionado por la tecnología, con pensamiento crítico, innovador y autodidacta.
 
-<!-- falar sobre apresentações -->
+<h2><b>Biografia</b> extendida</h2>
 
-Atualmente, é *developer advocate* do [BLiP](http://blip.ai/), a plataforma para construção de bots, da [Take](https://take.net). Entre outras coisas, ajuda (direta ou indiretamente) mais de 5000 desenvolvedores e empresas, em todo o mundo, sobre como utilizar o BLiP para construir aplicações conversacionais. Durante todos os anos de trabalho já desempenhou diferentes papeis: estagiário em análise de dados, estagiário em desenvolvimento, engenheiro de software e líder técnico. Nos fins de semana insiste em jogar futebol e atua como ponta direita do [Tchê Garotos F.C](https://www.instagram.com/tchegarotos_f.c/).
 
-Os principais hobbys são: conhecer lugares diferentes, ler, escrever, assistir um bom filme - preferencialmente no cinema, programar, pesquisar projetos open source, participar de eventos de tecnologia, jogar video game e estudar assuntos "não convencionais". 
 
-Ocasionalmente, escreve sobre desenvolvimento, chatbots e assuntos aleatórios para seu [blog pessoal](http://ravpacheco.com/blog/) e sites como: [InfoQ](http://infoq.com/), [ChatbotsBrasil](https://chatbotsbrasil.take.net/), [BotsBrasil](https://medium.com/botsbrasil).
+Actualmente, investigo en el campo de [Affective Computing](http://https://affect.media.mit.edu/) específicamente en determinar la intensidad de dolor usando expresiones faciales en videos. Trabajo con Deep Learning, Modelos Gráficos Probabilísiticos usando el paradigma de Aprendizaje Personalizado para la salud. Entre otras cosas,  me he formado como Ingeniero Informatico y Sistemas, del cual representante estudiantil en la sección académica y fui parte de un circulo de estudios. Fui parte de la empresa [CCAIJO](http://ccaijo.org.pe) siendo parte y liderando proyectos de desarrollo de software de ERP,  proyectos, gestión y buenas practicas en TI. Fui consultor en Asociación SEMPA para [La Ruta del Barroco  Andino](http://rutadelbarrocoandino.com) . K0e he especializado en en Gestion de Base de Datos, el cual fue el punto de origen para interesarme en la automatización de procesos usando Inteligencia Ariticial, del cual fue partícipe de distintos eventos nacionales e internacionales del área como organizador y ponente. 
+
+Mis  hobbys principales son: Lectura, running, viajar, escuchar rock, fotografia, futbol, escuchar confenrencias , programar, investigar, participar de eventos de tecnologia. 
 
 <div class="breaker"></div>
 
-<p>
-Se quiser receber novidades sobre meu blog utilize <a href="http://ravpacheco.com/feed.xml">este RSS feed</a>. 
-Estou presente em várias redes sociais: <a href="http://plus.google.com/+RafaelPachecoBH">Google+</a>, <a href="http://twitter.com/ravpachecco">Twitter</a>, <a href="http://facebook.com/ravpacheco">Facebook</a>, <a href="http://linkedin.com/in/ravpacheco">LinkedIn</a>, <a href="http://instagram.com/ravpachecco">Instagram</a>, <a href="http://youtube.com/ravpacheco">YouTube</a>, <a href="https://open.spotify.com/user/ravpacheco">Spotify</a>, <a href="https://github.com/ravpacheco">GitHub</a>, <a href="http://stackoverflow.com/users/3613766/rafael-pacheco">StackOverflow</a>, <a href="http://pt.slideshare.net/RafaelAvelar1">SlideShare</a> e <a href="https://medium.com/@ravpacheco">Medium</a>.
-</p>
-<p>
-Tenho também um chatbot (<a href="http://ravpacheco.com/voce-sabe-o-que-eh-um-chatbot/">clique aqui</a> se você não souber o que é um chatbot) que sabe algumas coisas ao meu respeito. 
-Eu adoraria se você tentasse conversar com ele no <a href="https://www.facebook.com/Fale-com-o-Pacheco-2112212492336706/">Messenger</a>, Telegram, Skype ou através da janela de chat no canto inferior direito do site (basta clicar no botão preto flutuante).
-</p>
-<p>
-Mas, se você quiser apenas me enviar um email, fique a vontade e use <b>ravpacheco@gmail.com</b> 😉
-</p>
 
-<h2>Porquê <b>ravpacheco</b>?</h2>
-
-<p>Provavelmente, você deve estar se perguntando porque meu blog e meu id em várias redes sociais é <b>ravpacheco</b>.
-Simples, esta palavra representa as iniciais do meu nome <b>R</b>afael <b>Av</b>elar <b>Pacheco</b> :).
-</p>
-
-<h2>Projetos</h2>
+<h2>Proyectos</h2>
 
 <ul>
-	<li><a href="http://ravpacheco.com/apresentacoes/">Minhas apresentações</a> - Uma lista com todas as minhas apresentações em eventos, cursos e worshops.</li>
-	<li><a href="https://github.com/ravpacheco/tilt">Tilt</a> - <b>T</b>oday <b>I</b> <b>L</b>earned <b>T</b>his. Uma coleção de pequenas e interessantes coisas (sobre programação) que aprendi durante no dia a dia.</li> is already taken. Check out h
-	<li><a href="http://ravpacheco.com/projeto-resumo-semanal-chatbot/">Resumo semanal chatbot</a> - resumo comentado destacando alguns dos artigos mais importantes sobre chatbots em todo o mundo.</li>
-	<li><a href="https://github.com/ravpacheco/resumebot">resumebot</a>. Resumebot é meu chatbot currículo criado usando a plataforma <a href="http://blip.ai">blip.ai</a>.</li>
-</ul>
+	<li><a href="http://ravpacheco.com/apresentacoes/">MyLac</a> Sistema de Gestión de derivados Lácteos</li>
+	<li><a href="https://github.com/ravpacheco/tilt">SPM</a>Sistema de Monitoreo de Proyectos </li> 
+	<li><a href="http://ravpacheco.com/projeto-resumo-semanal-chatbot/">ERP CCAIJO</a> Sistema de Gestión.</li>
+	<li><a href="https://github.com/ravpacheco/resumebot">BackSym </a>. Sistema de backups</li>
+</ul
+		<li><a href="http://ravpacheco.com/apresentacoes/">Visual Odometry</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Calibration Camera</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Searh Engine</a> Searh Engine</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Fluid Rasterization</a> Sistema de Gestión de derivados Lácteos</li>
+				<li><a href="http://ravpacheco.com/apresentacoes/">R-Tree data structure Visualization</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">CUDA ANN</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Searh Engine</a> Searh Engine</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Fluid Rasterization</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Radix Tree Visualization</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Optical Flow and 3D CNN</a> Searh Engine</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">AttentionGAN</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Pain Estimation</a> Sistema de Gestión de derivados Lácteos</li>
+	
+	
 
 <h2>Currículos</h2>
 

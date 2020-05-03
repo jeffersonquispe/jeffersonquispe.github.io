@@ -4,7 +4,7 @@ layout: page
 lang: en
 ref: about
 ---
-![Profile Image]({{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }}/{{ https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg }})
+![jefferson](https://jeffersonquispe.github.io/jeffersonquispe.github.io/assets/images/profile.jpg)
 
 Jefferson Quispe Pinares is a  Master Student of Computer Science at San Pablo University Catholic and Bachelor of Informatic Engineering at Universidad Nacional San Antonio Abad del Cusco.
 Worked as a _developer and Chieff Technologic Officer at [CCAIJO](http://ccaijo.org.pe/), Growth Hacker at [Ruta del barroco Andino - SEMPA](https://rutadelbarrocoandino.com) and teacher in many Education Institutes.
@@ -59,12 +59,37 @@ But, if you just want to email me, go ahead send an email to <b>jeffersonquispep
 Simple, this word represents initials of my name <b>R</b>afael <b>Av</b>elar <b>Pacheco</b> :).
 </p> -->
 <!--
-<h2>Projects</h2>
--->
-<!-- <ul>
-	<li><a href="https://github.com/ravpacheco/tilt">Tilt</a> - <b>T</b>oday <b>I</b> <b>L</b>earned <b>T</b>his. A collection of small and curious things (about programming) that I learned.</li>
-	<li><a href="https://github.com/ravpacheco/resumebot">resumebot</a>. Resume bot is my digital resume as a chatbot created using http://blip.ai plataform.</li>
-</ul>  -->
+ -->
+
+ <h2>Projects</h2>
+
+<ul>
+	<li><a href="http://ravpacheco.com/apresentacoes/">MyLac</a> Sistema de Gestión de derivados Lácteos</li>
+	<li><a href="https://github.com/ravpacheco/tilt">SPM</a>Sistema de Monitoreo de Proyectos </li> 
+	<li><a href="http://ravpacheco.com/projeto-resumo-semanal-chatbot/">ERP CCAIJO</a> Sistema de Gestión.</li>
+	<li><a href="https://github.com/ravpacheco/resumebot">BackSym </a>. Sistema de backups</li>
+</ul
+		<li><a href="http://ravpacheco.com/apresentacoes/">Visual Odometry</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Calibration Camera</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Searh Engine</a> Searh Engine</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Fluid Rasterization</a> Sistema de Gestión de derivados Lácteos</li>
+				<li><a href="http://ravpacheco.com/apresentacoes/">R-Tree data structure Visualization</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">CUDA ANN</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Searh Engine</a> Searh Engine</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Fluid Rasterization</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Radix Tree Visualization</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Optical Flow and 3D CNN</a> Searh Engine</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">AttentionGAN</a> Sistema de Gestión de derivados Lácteos</li>
+		<li><a href="http://ravpacheco.com/apresentacoes/">Pain Estimation</a> Sistema de Gestión de derivados Lácteos</li>
+	
+	
+
+<h2>Currículos</h2>
+
+<ul class="skill-list">
+	<li><a href="{{ site.resume-pt-url }}">Profissional</a></li>
+	<li><a href="{{ site.lattes-pt-url }}">Currículo Lattes (foco acadêmico)</a></li>
+</ul>
 
 <h2>Resumes</h2>
 

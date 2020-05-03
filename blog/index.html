@@ -3,13 +3,13 @@
 # https://jekyllrb.com/docs/pagination/
 layout: page
 title: Blog
-lang: pt
+lang: es
 ref: blog
 ---
 <section class="list">
 	{% assign posts=site.posts | where:"lang", page.lang | where:"category", "blog" %}
 	{% if posts.size == 0 %}
-		<p class="text-center">Nenhuma publicação por enquanto!</p>
+		<p class="text-center">Ninguna publicación por el momento!</p>
 	{% elsif site.paginate %}
 		{% assign posts=paginator.posts | where:"lang", page.lang %}	
 		{% for post in posts %}
