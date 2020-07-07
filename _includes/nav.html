@@ -52,10 +52,10 @@
         {% if site.resume == true %}
             <li class="item">
                 {% if page.lang == "es" %}
-                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-pt-url }}{% else %}{{ site.url }}/{{ site.resume-pt-url }}{% endif %}">Currículo</a>
+                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-pt-url }}{% else %}{{ site.url }}/{{ site.resume-pt-url }}{% endif %}">CV</a>
                 {% endif %}
                 {% if page.lang == "en" %}
-                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Curriculum</a>
+                <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
                 {% endif %}
             </li>
         {% endif %}

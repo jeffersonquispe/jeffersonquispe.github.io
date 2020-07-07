@@ -1,15 +1,15 @@
 ---
-title:  "Dentre tantas plataformas de bots, por que o BLiP ?"
+title: "Dentre tantas plataformas de bots, por que o BLiP ?"
 layout: post
-date:   2018-02-28 14:00:00 +0000
+date: 2018-02-28 14:00:00 +0000
 author: ravpacheco
-lang: pt
+lang: es
 ref: blip-best-platform
-tag: 
-- blip
-- platform
-- opinion
-- vida
+tag:
+    - blip
+    - platform
+    - opinion
+    - vida
 blog: true
 star: false
 description: Algumas reflexões sobre porque acredito que o BLiP é uma ótima plataforma para construção de bots.
@@ -22,9 +22,9 @@ Apesar de não ser novo, o termo bot (ou chatterbot, chatbot, contatos inteligen
 Visto do alto, construir um bot é algo simples. Você precisa, basicamente, **de uma API** que **receba mensagens de um canal** (como o Facebook Messenger por exemplo); **analise o conteúdo da mensagem** (utilizando ou não algoritmos de Inteligência Artificial); e **responda o cliente** com requisições na API do canal.
 
 ![Arquitetura mínima para criar um bot.](https://cdn-images-1.medium.com/max/1000/1*TMTDp0Vceghulz5nhXxQKg.png)
-*Arquitetura mínima para criar um bot.*
+_Arquitetura mínima para criar um bot._
 
-Apesar disso, quem já construiu, ou está construindo, um bot sabe que a tarefa não é assim tão trivial. Design de conversa, integrações, presença *omni channel*, gestão e manutenção, evolução da base de conhecimento, transbordo para um atendente humano, análise e insights dos eventos gerados, métricas para avaliação do sucesso, testes AB, criação de bots e sub-bots, são apenas alguns dos desafios de quem cria bons bots.
+Apesar disso, quem já construiu, ou está construindo, um bot sabe que a tarefa não é assim tão trivial. Design de conversa, integrações, presença _omni channel_, gestão e manutenção, evolução da base de conhecimento, transbordo para um atendente humano, análise e insights dos eventos gerados, métricas para avaliação do sucesso, testes AB, criação de bots e sub-bots, são apenas alguns dos desafios de quem cria bons bots.
 
 ![Complexidade em construir um bom bot](https://cdn-images-1.medium.com/max/600/1*SjVWZ7-45QR2E66Hr2LaHw.png)
 
@@ -39,7 +39,7 @@ Meu objetivo neste artigo é apresentar o meu ponto de vista, sobre a plataforma
 ...
 
 ![Plataformas](https://cdn-images-1.medium.com/max/2000/1*hQq0yD2mdon2FRW1kdRp7Q.png)
-*Algumas plataformas/ferramentas do ecossistema de bots no mundo. Fonte: Sergio Passos*
+_Algumas plataformas/ferramentas do ecossistema de bots no mundo. Fonte: Sergio Passos_
 
 > Alerta: Apesar de ser um dos desenvolvedores e o evangelizador da plataforma BLiP, testo, regularmente, ferramentas relacionadas ao mundo de bots, desenvolvidas por qualquer empresa do mundo.
 
@@ -55,7 +55,7 @@ O BLiP permite a criação de 2 tipos de bots: utilizando um dos templates dispo
 
 ![Exemplo de bot construido através do Builder do BLiP](https://cdn-images-1.medium.com/max/800/1*92L7C0w_EL0qg2luvKeUUg.png)
 
-*Exemplo de bot construido através do Builder do BLiP*
+_Exemplo de bot construido através do Builder do BLiP_
 
 O componente Builder do BLiP foi pensado para ajudar uma equipe desde o processo de ideação até a implementação. Antes mesmo de detalhar o conteúdo da conversa, é possível desenhar a visão macro de seu bot e ajudar todos os envolvidos no projeto a entender como a informação esta organizada. Além disso, está integrado a todos as funcionalidades do BLiP, e assim como outras opções do mercado, permite a realização de requisições HTTP para integração com APIs externas.
 
@@ -83,7 +83,7 @@ Durante a construção do seu bot você é 100% livre para utilizar qualquer out
 
 Diversas plataformas de construção de bots possuem seus algoritmos próprios de IA - Inteligência Artificial. Nesses casos, você está condicionado a utilizar um único algoritmo, mesmo que, por algum motivo (língua, qualidade de confiança na análise, entre outros), ele não atenda corretamente à sua demanda.
 
-**O BLiP não é um provedor de IA.** Melhor do que estar preso a uma única solução, o BLiP esta integrado aos melhores provedores (ou ferramentas) de IA do mercado ([IBM Watson](https://www.ibm.com/watson/), [Microsoft LUIS](http://luis.ai/) *e em breve DialogFlow e Wit.ai*), você só precisa escolher qual delas é a melhor para o seu negócio.
+**O BLiP não é um provedor de IA.** Melhor do que estar preso a uma única solução, o BLiP esta integrado aos melhores provedores (ou ferramentas) de IA do mercado ([IBM Watson](https://www.ibm.com/watson/), [Microsoft LUIS](http://luis.ai/) _e em breve DialogFlow e Wit.ai_), você só precisa escolher qual delas é a melhor para o seu negócio.
 
 Além disso, é possível importar sua base de conhecimento (intenções e entidades) pré-existente, bem como migrar de um provedor de IA para outro **com apenas um clique**. Você não precisa implementar nenhuma nova integração, nem se preocupar com o processo de migração entre diferentes provedores, o BLiP cuida disso para você. Esteja a um clique do concorrente do seu provedor atual. **Mais uma vez, seja livre!**
 
@@ -96,9 +96,9 @@ O BLiP possui uma ferramenta, para que um ser humano consiga ajudar seu bot a re
 
 **Tenha total flexibilidade para hospedar seu bot.**
 
-Imagine que sua empresa quer utilizar uma ferramenta para construção de bots, mas por algum motivo precisa *hostear* (hospedar) a aplicação em sua infraestrutura.
+Imagine que sua empresa quer utilizar uma ferramenta para construção de bots, mas por algum motivo precisa _hostear_ (hospedar) a aplicação em sua infraestrutura.
 
-No BLiP, os bots criados podem utilizar a infraestrutura (ou cloud) que mais lhe agrada. *Excelente opção para quem desenvolve bots para terceiros.*
+No BLiP, os bots criados podem utilizar a infraestrutura (ou cloud) que mais lhe agrada. _Excelente opção para quem desenvolve bots para terceiros._
 
 Não quer se preocupar com hospedagem do seu bot ? Tudo bem, por padrão, todos os bots criados através do **Builder do BLiP são hospedados automaticamente e sem custos adicionais 👍.**
 
@@ -108,7 +108,7 @@ Não quer se preocupar com hospedagem do seu bot ? Tudo bem, por padrão, todos 
 
 Algumas pessoas não desenvolvem, e portanto podem optar por construir seus bots com o auxílio do Builder. Entretanto, alguns desenvolvedores (ou empresas) podem precisar de total flexibilidade para realizar qualquer tipo de customização ou criação de aplicações para terceiros.
 
-Pensando nisso, o BLiP disponibiliza SDKs (*C\#, JavaScript e JAVA*) e uma API HTTP para possibilitar qualquer tipo de automatização durante a construção de um bot. Essa pode ser uma opção muito interessante para quem está no mundo de IOT (*Internet of things*)
+Pensando nisso, o BLiP disponibiliza SDKs (_C\#, JavaScript e JAVA_) e uma API HTTP para possibilitar qualquer tipo de automatização durante a construção de um bot. Essa pode ser uma opção muito interessante para quem está no mundo de IOT (_Internet of things_)
 
 ## 7. Visão completa
 
@@ -118,7 +118,7 @@ Diferente da grande maioria de plataformas de bots, o BLiP possui diversas ferra
 
 ![Bots life cycle](https://cdn-images-1.medium.com/max/800/1*tW-B0x-XSGlozpFPnsBjbQ.png)
 
-*Ciclo de vida de um bot.*
+_Ciclo de vida de um bot._
 
 ### Ideação
 
@@ -128,19 +128,19 @@ O Builder permite que o designer de conversas crie a visão macro e defina como 
 
 Além de todas as funcionalidades destacadas anteriormente, o BLiP possui várias extensões (funções básicas já implementadas) que facilitam a vida de qualquer desenvolvedor de bot.
 
-* Precisa do histórico da conversa de um usuário com seu bot ? Use a extensão [Histórico](https://docs.blip.ai/#chat-history)
-* Precisa armazenar algum tipo de informação ? Use a extensão de [Armazenamento](https://docs.blip.ai/#bucket)
-* Precisa disparar um *broadcast* para seus clientes (ou para um grupo específico) ? Use a extensão [Broadcast](https://docs.blip.ai/#broadcast)
-* Precisa agendar o envio de alguma mensagem para algum cliente? Use a extensão [Schedule](https://docs.blip.ai/#schedule)
+-   Precisa do histórico da conversa de um usuário com seu bot ? Use a extensão [Histórico](https://docs.blip.ai/#chat-history)
+-   Precisa armazenar algum tipo de informação ? Use a extensão de [Armazenamento](https://docs.blip.ai/#bucket)
+-   Precisa disparar um _broadcast_ para seus clientes (ou para um grupo específico) ? Use a extensão [Broadcast](https://docs.blip.ai/#broadcast)
+-   Precisa agendar o envio de alguma mensagem para algum cliente? Use a extensão [Schedule](https://docs.blip.ai/#schedule)
 
 [Clique aqui](https://docs.blip.ai/#extensions) para consultar a lista completa de extensões.
 
 Ainda na fase de criação, é possível aproveitar as diversas integrações pré-existentes na plataforma. Essas integrações permitem que seu bot esteja conectado a várias ferramentas sem que você precise se preocupar em aprender o dialeto de cada uma delas. Veja abaixo alguns exemplos de integrações disponíveis no BLiP:
 
-* Pagamentos através do [PagSeguro](http://pagseguro.uol.com.br/);
-* Gerenciamento de Leads através do [RD Station](https://www.rdstation.com/);
-* Customer Chat Plugin do Messenger;
-* Em breve, gerenciamento de suas campanhas de ADs do Facebook com a [Sugar Ads](http://sugarads.io/hotsite/index.html);
+-   Pagamentos através do [PagSeguro](http://pagseguro.uol.com.br/);
+-   Gerenciamento de Leads através do [RD Station](https://www.rdstation.com/);
+-   Customer Chat Plugin do Messenger;
+-   Em breve, gerenciamento de suas campanhas de ADs do Facebook com a [Sugar Ads](http://sugarads.io/hotsite/index.html);
 
 Seu bot está pronto ? Só falta testar ? O BLiP te deixa à um clique de um simulador de conversa com o seu bot ;). (Obs.: se precisar de mais informações sobre testes em chatbots, confira este [blog](http://taketest.take.net/))
 
@@ -148,11 +148,11 @@ Seu bot está pronto ? Só falta testar ? O BLiP te deixa à um clique de um sim
 
 Assim como em qualquer aplicação real, após o processo de publicação em um ambiente de produção, é necessário um gerenciamento constante para que tudo saia como esperado.
 
-O painel principal do BLiP age como um *heath monitor* (monitor de saúde) trazendo várias informações, indispensáveis, para o gerenciamento do seu bot. É possível saber, em tempo real, por exemplo, se o bot está disponível, qual a quantidade de mensagens trafegadas, qual os assuntos mais discutidos, o tempo médio de resposta do bot, quantidade de usuários ativos, entre várias outras.
+O painel principal do BLiP age como um _heath monitor_ (monitor de saúde) trazendo várias informações, indispensáveis, para o gerenciamento do seu bot. É possível saber, em tempo real, por exemplo, se o bot está disponível, qual a quantidade de mensagens trafegadas, qual os assuntos mais discutidos, o tempo médio de resposta do bot, quantidade de usuários ativos, entre várias outras.
 
 ![Exemplo do dashboard de informações gerais de um bot no BLiP.](https://cdn-images-1.medium.com/max/800/1*ZiQ_XL8wfai_qOrZOYxjVQ.png)
 
-*Exemplo do dashboard de informações gerais de um bot no BLiP.*
+_Exemplo do dashboard de informações gerais de um bot no BLiP._
 
 ### Análise/Promoção
 
@@ -164,7 +164,7 @@ Por fim, existe ainda a total flexibilidade para utilização de ferramentas de 
 
 ### Evolução
 
-É possível utilizar os módulos de **Aprimoramento** e **Aprovação** (*aprendizado supervisionado*) para aprender com todas as interações dos clientes e fazer com que sua base de conhecimento fique cada vez mais “*inteligente*”.
+É possível utilizar os módulos de **Aprimoramento** e **Aprovação** (_aprendizado supervisionado_) para aprender com todas as interações dos clientes e fazer com que sua base de conhecimento fique cada vez mais “_inteligente_”.
 
 ## 8. Trabalho em equipe
 
@@ -174,7 +174,7 @@ Uma das premissas do BLiP é que durante todo o ciclo de vida de um bot são nec
 
 ![Central de permissão da equipe](https://cdn-images-1.medium.com/max/800/1*OejYMPM3N7kt5uM2bYXIcA.png)
 
-*Central de permissão da equipe*
+_Central de permissão da equipe_
 
 ## 9. Multi Canal
 
@@ -182,11 +182,11 @@ Uma das premissas do BLiP é que durante todo o ciclo de vida de um bot são nec
 
 Apesar do Messenger se apresentar hoje como o **canal** (aplicativo de mensagem que suporta bots) mais importante, existem ainda diversos outros canais importantes, com uma boa base de usuários, capazes de trazer muita audiência para sua aplicação.
 
-Atualmente, o BLiP permite que você crie seu bot uma única vez e o disponibilize em 7 canais: *Telegram*, *Messenger*, *Workplace*, *Skype*, *Email*, *SMS* e **BLiP Chat** (canal próprio do BLiP que permite colocar seu bot em um **site** ou em um aplicativo móvel **Android** e **iOS**).
+Atualmente, o BLiP permite que você crie seu bot uma única vez e o disponibilize em 7 canais: _Telegram_, _Messenger_, _Workplace_, _Skype_, _Email_, _SMS_ e **BLiP Chat** (canal próprio do BLiP que permite colocar seu bot em um **site** ou em um aplicativo móvel **Android** e **iOS**).
 
 ![Canais do BLiP](https://cdn-images-1.medium.com/max/800/1*QRV7a_2ZhJ5pc3ytjLs8aA.png)
 
-Em breve, bots criados no BLiP estarão disponíveis também em canais como: *Whatsapp*, *Slack*, *Rocket Chat*, *Google RCS*, *Google Assistant*, *Alexa*, *Business Chat* da Apple entre outros.
+Em breve, bots criados no BLiP estarão disponíveis também em canais como: _Whatsapp_, _Slack_, _Rocket Chat_, _Google RCS_, _Google Assistant_, _Alexa_, _Business Chat_ da Apple entre outros.
 
 ## 10. Bots e sub-bots
 
@@ -194,7 +194,7 @@ Em breve, bots criados no BLiP estarão disponíveis também em canais como: *Wh
 
 Quem já teve a experiência de fazer um bot real (lançado oficialmente e testado pelos clientes) sabe da dificuldade em modelar uma base de conhecimento capaz de tratar a maior quantidade possível de assuntos.
 
-Imagine que seu desafio é criar um bot especialista em eventos de culinária. Criar e gerenciar uma base para esse bot envolve conhecimentos em duas áreas diferentes mas que se completam para um determinado momento. 
+Imagine que seu desafio é criar um bot especialista em eventos de culinária. Criar e gerenciar uma base para esse bot envolve conhecimentos em duas áreas diferentes mas que se completam para um determinado momento.
 Ao invés de se preocupar com todos os assuntos em um mesmo lugar, você pode adotar uma estratégia diferente. Crie três bots: um especialista em eventos, outro especialista em culinária e um terceiro bot, composto pelos dois anteriores, especialista em eventos de culinária.
 
 Assim como reaproveitamos serviços através de APIs, através da arquitetura de bots e sub-bots do BLiP **é possível reaproveitar suas aplicações conversacionais**.
@@ -205,22 +205,21 @@ Assim como reaproveitamos serviços através de APIs, através da arquitetura de
 
 Em quase todos os contextos, uma alta disponibilidade do bot pode ser a chave para seu sucesso. Por isso, adotar ferramentas estáveis e consolidadas pode ser um importante requisito para seu projeto
 
-* Take possui 18 anos no mercado de mensageria
-* Take possui parcerias com as principais empresas de bots no mundo, como Facebook, Google, Microsoft e IBM.
-* \+ de 2.700 cadastros completos
-* \+ de 4000 chatbots já criados.
-* Alguns dos clientes do BLiP
+-   Take possui 18 anos no mercado de mensageria
+-   Take possui parcerias com as principais empresas de bots no mundo, como Facebook, Google, Microsoft e IBM.
+-   \+ de 2.700 cadastros completos
+-   \+ de 4000 chatbots já criados.
+-   Alguns dos clientes do BLiP
 
 ![Algumas empresas que já usam o BLiP](https://cdn-images-1.medium.com/max/800/1*HNIlGFVQ8BSatIhN6cCVtg.png)
 
-*Algumas empresas que já usam o BLiP*
+_Algumas empresas que já usam o BLiP_
 
 ## Quem está falando do BLiP ?
 
-* [Facebook](https://www.facebook.com/business/products/messenger-for-business/development-providers)
-* [IBM](https://www-03.ibm.com/marketing/br/vitrinedecanais/casosdesucesso/Take_Blip.pdf)
-* [Chatbase](https://techcrunch.com/2017/11/16/googles-chatbot-analytics-platform-chatbase-launches-to-public/) (Google)
-
+-   [Facebook](https://www.facebook.com/business/products/messenger-for-business/development-providers)
+-   [IBM](https://www-03.ibm.com/marketing/br/vitrinedecanais/casosdesucesso/Take_Blip.pdf)
+-   [Chatbase](https://techcrunch.com/2017/11/16/googles-chatbot-analytics-platform-chatbase-launches-to-public/) (Google)
 
 E você, concorda com meus argumentos? Tem alguma sugestão? Gostaria de sugerir outro ponto de vista ou crítica? Deixe seu comentário abaixo 👇. Se gostar do artigo compartilhe com seus amigos ❤️ , quem sabe ele pode ser útil para outra pessoa também! 😉
 
@@ -228,6 +227,5 @@ E você, concorda com meus argumentos? Tem alguma sugestão? Gostaria de sugerir
 
 [Portal do BLiP](https://preview.blip.ai)
 [Help Center](https://help.blip.ai)
-[Fórum do BLiP](https://forum.blip.ai) 
+[Fórum do BLiP](https://forum.blip.ai)
 [Comunidade do Facebook](https://www.facebook.com/groups/BLiP.Community/)
-

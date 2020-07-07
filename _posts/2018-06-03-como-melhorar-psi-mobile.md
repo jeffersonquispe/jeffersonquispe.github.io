@@ -1,15 +1,15 @@
 ---
-title:  "Como melhorar o PSI mobile da sua página com apenas 5 caracteres."
+title: "Como melhorar o PSI mobile da sua página com apenas 5 caracteres."
 layout: post
-date:   2018-06-03 14:00:00 +0000
+date: 2018-06-03 14:00:00 +0000
 author: ravpacheco
-lang: pt
+lang: es
 ref: psi-mobile
-tag: 
-- psi
-- blip.ai
-- mobile
-- blip-chat
+tag:
+    - psi
+    - blip.ai
+    - mobile
+    - blip-chat
 blog: true
 star: true
 description: Aprenda uma dica rápida e fácil para melhorar o carregamento e o PSI de sua página web
@@ -23,26 +23,29 @@ Pensando nisso, desde o início de 2018, o Google começou a considerar a [veloc
 
 Para saber se sua página atende aos critérios definidos pelo PSI, utilize o link [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/) e informe o endereço de sua página. Após a análise, a ferramenta dará uma nota de 0 a 100 e apresentará os feedbacks de como melhorar sua aplicação.
 
-Se você está lendo este artigo então conhece meu site [ravpacheco.com](http://ravpacheco.com). 
-Quando começei a construío-lo, além do obejtivo de organizar o acesso as todas as minhas informações profissionais, tinha apenas 2 pré-requisitos técnicos: 
+Se você está lendo este artigo então conhece meu site [ravpacheco.com](http://ravpacheco.com).
+Quando começei a construío-lo, além do obejtivo de organizar o acesso as todas as minhas informações profissionais, tinha apenas 2 pré-requisitos técnicos:
 
-* Flexibilidade para extensão - por isso a escolha por uma ferramenta open source **via código**.
-* Ser muito rápido - por isso a escolha por algo minimalista (na melhor expressão da palavra).
+-   Flexibilidade para extensão - por isso a escolha por uma ferramenta open source **via código**.
+-   Ser muito rápido - por isso a escolha por algo minimalista (na melhor expressão da palavra).
 
 Recentemente, adicionei no site uma janela de chat que permite qualquer pessoa me enviar mensagens (de forma anônima ou identificada). A janela de chat é um componente da plataforma [BLiP](https://blip.ai), chamado BLiP Chat.
 
 O processo para incluir o BLiP Chat em uma página web é extremamente simples. Basta copiar e colar dois blocos de scripts no HTML de sua página.
 
 ```html
-<script src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
+<script
+    src="https://unpkg.com/blip-chat-widget"
+    type="text/javascript"
+></script>
 <script>
     (function () {
         window.onload = function () {
             new BlipChat()
-                .withAppKey('your-api-key')
-                .withButton({ "color": "#222222" })
+                .withAppKey("your-api-key")
+                .withButton({ color: "#222222" })
                 .build();
-        }
+        };
     })();
 </script>
 ```
@@ -57,15 +60,19 @@ A justificativa pela queda de pontuação é o fato das tags **scripts** travare
 Para contornar esse problema, uma estratégia simples é adicionar o atributo **async** (sim, apenas 5 caracteres) nos blocos scripts. Scripts que possuem o atributo **async** são executados em asincronamente, antes mesmo de todo o processo de parsing da página.
 
 ```html
-<script async src="https://unpkg.com/blip-chat-widget" type="text/javascript"></script>
-<script >
+<script
+    async
+    src="https://unpkg.com/blip-chat-widget"
+    type="text/javascript"
+></script>
+<script>
     (function () {
         window.onload = function () {
             new BlipChat()
-                .withAppKey('your-api-key')
-                .withButton({ "color": "#222222" })
+                .withAppKey("your-api-key")
+                .withButton({ color: "#222222" })
                 .build();
-        }
+        };
     })();
 </script>
 ```

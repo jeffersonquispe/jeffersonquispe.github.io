@@ -1,18 +1,18 @@
 name: Jefferson Quispe Pinares
 bio: Be more to serve better
-description: Full-time Master student Computer Science
+description: candidate Master Computer Science
 external-image: true
 picture: assets/images/profile.jpg
 resume: true
 resume-external: true
-resume-url: 'https://cutt.ly/VeixJRo'
-resume-pt-url: 'https://cutt.ly/VeixJRo'
+resume-url: "https://cutt.ly/VeixJRo"
+resume-pt-url: "https://cutt.ly/VeixJRo"
 lattes-url: null
 lattes-pt-url: null
 url: jeffersonquispe.github.io
 real-url: jeffersonquispe.github.io
-permalink: '/:title/'
-analytics-google: UA-62025300-1
+permalink: "/:title/"
+#analytics-google: UA-62025300-1
 disqus:
   shortname: JeffersonQuispe
   categories:
@@ -52,7 +52,7 @@ plugins:
   - jemoji
   - jekyll-admin
 jekyll-mentions:
-  base_url: 'https://github.com'
+  base_url: "https://github.com"
 compress_html:
   ignore:
     envs:
