@@ -7,78 +7,99 @@ ref: about
 
 ![jefferson]({{ site.url }}/assets/images/profile.jpg)
 
-**Machine Learning / AI Engineer** con más de 10 años en el sector tecnológico y 6+ años construyendo sistemas de IA en entornos de producción. Actualmente trabajando en el **Banco de Crédito BCP** como Ingeniero de ML. Especializado en **NLP**, **Speech AI**, **Computer Vision**, **MLOps** y **LLMs (Modelos de Lenguaje Largo)**.
+**Machine Learning / AI Engineer** con más de 6 años de experiencia especializándose en sistemas de IA. Experto en diseño y despliegue de sistemas ML de extremo a extremo (TTS, ASR, LLMs) usando herramientas cloud-native (AWS, GCP) y frameworks open-source. M.Sc. en Ciencia de la Computación (becario CONCYTEC), con experiencia en MLOps, escalabilidad e investigación.
 
-Maestría en Ciencia de la Computación en la Universidad Católica San Pablo y Bachiller en Ingeniería Informática y de Sistemas en la Universidad Nacional San Antonio Abad del Cusco. Apasionado por la tecnología, con pensamiento crítico, innovador y autodidacta.
+📍 Lima, Perú · ✉️ jeffersonquispep@gmail.com
 
 <h2><b>Experiencia</b></h2>
 
-- **Banco de Crédito BCP** — Machine Learning Engineer (2022 – Presente)
-- **UCAL** — Docente, "IA Aplicada a Soluciones Innovadoras" (2024)
-- **Encora Inc.** — Machine Learning Engineer
-- **Universidad Católica San Pablo (UCSP)** — Investigador en Machine Learning
-- **CCAIJO** — Desarrollador y CTO
-- **SEMPA - Ruta del Barroco Andino** — Consultor Tecnológico
+- **Encora** — AI Tech Lead (Sep 2025 – Feb 2026)
+  - Coordinación del diseño y desarrollo de IA usando arquitectura hexagonal
+  - Supervisión de integración de IA Generativa y sistemas físicos
+  - Gestión de despliegue a producción y transferencia de conocimiento
+  - *Tech: AWS, LangChain, Python, MLOps, LLM, SDLC*
+
+- **Cenia Chile** — Especialista en Investigación / ML Engineer (Abr 2024 – Dic 2024)
+  - RAG y LLMs para lenguas de bajos recursos en Latinoamérica
+  - Pipelines de generación de datos sintéticos para entrenamiento/fine-tuning de LLMs en español y lenguas indígenas
+  - Fine-tuning de LLMs usando Hugging Face, PEFT y DeepSpeed
+  - *Tech: LangChain, ChromaDB, LlamaIndex, LLM, Python*
+
+- **Universidad Continental** — Docente de Machine Learning (Abr 2024 – Dic 2024)
+  - Cursos: "Modelos de Machine Learning" y "Desarrollo de Software AI"
+  - Plan de estudios: Aprendizaje Supervisado/No Supervisado, Redes Neuronales, Computer Vision
+
+- **Vozy** — Machine Learning Engineer (Sep 2021 – May 2025)
+  - Desarrollo de APIs escalables de TTS, ASR y LLM (Flask/FastAPI) sirviendo 40M+ palabras/mes
+  - Creación de modelo TTS propio (200% de ahorro vs ElevenLabs)
+  - Liderazgo de GenAI para 20+ voice speakers
+  - Ponente en Khipu AI, NAACL y MLSS
+  - *Tech: AWS, GCP, Flask, FastAPI, Redes Neuronales*
+
+- **Universidad Católica San Pablo** — ML Engineer / Research Fellow (May 2018 – Dic 2020)
+  - Aplicación de Deep Learning a sensores remotos (deforestación) e imágenes biomédicas
+  - Desarrollo de sistema de detección de mascarillas en tiempo real
+  - *Tech: OpenCV, Keras, Python, Deep Learning*
 
 <div class="breaker"></div>
 
-<h2><b>Proyectos</b></h2>
+<h2><b>Educación</b></h2>
 
-<ul>
-	<li><a href="https://github.com/jeffersonquispe">Pain Estimation</a> — Estimación de intensidad de dolor facial usando Deep Learning y Affective Computing</li>
-	<li><a href="https://github.com/jeffersonquispe">AttentionGAN</a> — Red Generativa Adversarial con mecanismos de atención</li>
-	<li><a href="https://github.com/jeffersonquispe">Optical Flow and 3D CNN</a> — Análisis de video usando flujo óptico y redes convolucionales 3D</li>
-	<li><a href="https://github.com/jeffersonquispe">Visual Odometry</a> — Odometría visual en tiempo real usando imágenes RGB-D densas (C++)</li>
-	<li><a href="https://github.com/jeffersonquispe">Calibration Camera</a> — Sistema de calibración de cámara</li>
-	<li><a href="https://github.com/jeffersonquispe">Search Engine</a> — Motor de búsqueda de recuperación de información</li>
-	<li><a href="https://github.com/jeffersonquispe">Fluid Rasterization</a> — Simulación y rasterización de fluidos</li>
-	<li><a href="https://github.com/jeffersonquispe">R-Tree Visualization</a> — Visualización de estructura de datos R-Tree</li>
-	<li><a href="https://github.com/jeffersonquispe">Radix Tree Visualization</a> — Visualización de estructura de datos Radix Tree</li>
-	<li><a href="https://github.com/jeffersonquispe">CUDA ANN</a> — Redes Neuronales Artificiales con computación paralela CUDA</li>
-	<li><a href="https://github.com/jeffersonquispe/SCCAIJO">ERP CCAIJO</a> — Sistema de Planificación de Recursos Empresariales</li>
-	<li><b>MyLac</b> — Sistema de Gestión de derivados Lácteos</li>
-	<li><b>SPM</b> — Sistema de Monitoreo de Proyectos</li>
-	<li><b>BackSym</b> — Sistema de gestión de backups</li>
+- 🎓 **M.Sc. Ciencia de la Computación** — Universidad Católica San Pablo (2018 – 2020)
+- 🎓 **B.Sc. Ingeniería Informática y de Sistemas** — Universidad Nacional San Antonio Abad del Cusco (2009 – 2014)
+
+<h2><b>Premios y Reconocimientos</b></h2>
+
+<ul class="skill-list">
+	<li>🌟 <b>SALA Summit 2026</b> — Representante de Perú en IA en Latinoamérica (Quito, Ecuador)</li>
+	<li>🏆 <b>NASA Space Apps Challenge 2023</b> — Ganador (Arequipa)</li>
+	<li>🥈 <b>IBM Call for Code</b> — 2do Lugar ("ChatBIO")</li>
+	<li>🎓 <b>Khipu AI Scholar</b> (2019, 2025)</li>
+	<li>🎤 <b>NAACL 2024</b> — Ponente en Workshop (Ciudad de México)</li>
+	<li>🎓 <b>Deep Learning Summer School</b> — Toronto (2020)</li>
+	<li>🏅 <b>MIT Latin American AI Summit</b> — Representante (2020)</li>
+	<li>🎤 Ponente en <b>DevFest Lima 2025</b> y <b>DevFest Cusco 2019</b></li>
+</ul>
+
+<h2><b>Habilidades Técnicas</b></h2>
+
+<ul class="skill-list">
+	<li><b>AI/ML:</b> Deep Learning · NLP · TTS · ASR · LLM · Computer Vision · RAG</li>
+	<li><b>Ingeniería:</b> Python · Flask · FastAPI · AWS · GCP · CI/CD · MLOps · Git</li>
+	<li><b>Frameworks:</b> LangChain · Hugging Face · TensorFlow · Keras · Scikit-learn · PEFT · DeepSpeed · ChromaDB · LlamaIndex</li>
 </ul>
 
 <h2><b>Certificaciones</b></h2>
 
 <ul class="skill-list">
+	<li>ML Engineering for Production — DeepLearning.ai</li>
+	<li>Prompt Engineering, Chatbot Development, LangChain — Platzi</li>
 	<li>Emotion AI: Facial Key-points Detection — Coursera</li>
 	<li>Facial Expression Classification Using Residual Neural Nets — Coursera</li>
-	<li>Exploratory Data Analysis with Seaborn — Coursera (Oct 2020)</li>
-	<li>Python para Data Science — Coursera (Oct 2020)</li>
-	<li>COVID19 Data Visualization Using Python — Coursera (Sep 2020)</li>
-	<li>C++ — SoloLearn (Abr 2018)</li>
-	<li>BIG DATA y DATA SCIENCE — Platzi (Ene 2018)</li>
-	<li>Alinear TI con las metas empresariales usando COBIT — ITService (Ago 2016)</li>
-	<li>SCRUM y las tendencias mundiales — ITService (Jul 2016)</li>
+	<li>Exploratory Data Analysis with Seaborn — Coursera</li>
+	<li>Python para Data Science — Coursera</li>
+	<li>COVID19 Data Visualization Using Python — Coursera</li>
+	<li>BIG DATA y DATA SCIENCE — Platzi</li>
+	<li>Business Intelligence and Data Science — IBM, Coursera, Udemy</li>
+	<li>SCRUM y las tendencias mundiales — ITService</li>
+	<li>Alinear TI con las metas empresariales usando COBIT — ITService</li>
+	<li>C++ — SoloLearn</li>
 </ul>
 
-<h2><b>Logros</b></h2>
+<h2><b>Idiomas</b></h2>
 
 <ul class="skill-list">
-	<li>🌟 <b>SALA Summit 2026</b> — Seleccionado como representante de Perú en el Summit de IA en Latinoamérica (Quito, Ecuador)</li>
-	<li>🎤 Ponente en <b>DevFest Lima 2025</b></li>
-	<li>🎤 Ponente en <b>CITIS</b> — Congreso Internacional de Telecomunicaciones e Informática</li>
-	<li>🎤 Ponente en <b>DevFest Cusco 2019</b></li>
+	<li>🇪🇸 Español — Nativo</li>
+	<li>🇬🇧 Inglés — B2 Intermedio</li>
+	<li>🇧🇷 Portugués — B2 Intermedio</li>
 </ul>
 
-<h2><b>Habilidades</b></h2>
+<h2>Currículum</h2>
 
 <ul class="skill-list">
-	<li>NLP · Computer Vision · Speech AI · MLOps · Generative AI</li>
-	<li>LLMs · Affective Computing · Data Science</li>
-	<li>Python · C++ · JavaScript</li>
-	<li>Programación Paralela y Distribuida</li>
-</ul>
-
-<h2>Currículos</h2>
-
-<ul class="skill-list">
-	<li><a href="{{ site.resume-pt-url }}" target="_blank">CV Profesional</a></li>
+	<li><a href="{{ site.url }}/ATS%20CV%20en%20Jeff-8.pdf" target="_blank">Descargar CV (PDF)</a></li>
 </ul>
 
 <p>
-Si deseas escribirme, envíame un email a <b>jeffersonquispep@gmail.com</b> 😉
+¿Quieres contactarme? Envíame un email a <b>jeffersonquispep@gmail.com</b> 😉
 </p>
