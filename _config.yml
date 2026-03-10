@@ -1,6 +1,6 @@
 name: Jefferson Quispe Pinares
-bio: Be more to serve better
-description: candidate Master Computer Science
+bio: Machine Learning / AI Engineer | LLM Researcher
+description: ML Engineer with 10+ years in tech and 6+ years building AI systems in production
 external-image: true
 picture: assets/images/profile.jpg
 resume: true
@@ -30,7 +30,7 @@ flickr: photos/148613786@N07
 authors:
   jeffersonquispe:
     name: Jefferson Quispe Pinares
-    bio: Be more to serve better
+    bio: Machine Learning / AI Engineer | LLM Researcher
     external-image: true
     picture: assets/images/profile.jpg
 width: normal
