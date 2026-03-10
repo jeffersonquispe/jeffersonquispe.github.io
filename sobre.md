@@ -13,17 +13,17 @@ ref: about
 
 <h2><b>Experiencia</b></h2>
 
+
+- **MAGIS AI** — Chief Technology Officer  (Sept 2025 – currently)
+  - Voicebot que coordina servicios de mudanza, agenda solicitudes y permite pagos mediante QR.
+  -Agente de IA que genera sesiones de aprendizaje y rúbricas de evaluación alineadas con las directrices del MINEDU.
+  - *Tech: LangChain, Xano, Bland, AWS, python
+
 - **Encora** — AI Tech Lead (Sep 2025 – Feb 2026)
   - Coordinación del diseño y desarrollo de IA usando arquitectura hexagonal
   - Supervisión de integración de IA Generativa y sistemas físicos
   - Gestión de despliegue a producción y transferencia de conocimiento
   - *Tech: AWS, LangChain, Python, MLOps, LLM, SDLC*
-
-- **Cenia Chile** — Especialista en Investigación / ML Engineer (Abr 2024 – Dic 2024)
-  - RAG y LLMs para lenguas de bajos recursos en Latinoamérica
-  - Pipelines de generación de datos sintéticos para entrenamiento/fine-tuning de LLMs en español y lenguas indígenas
-  - Fine-tuning de LLMs usando Hugging Face, PEFT y DeepSpeed
-  - *Tech: LangChain, ChromaDB, LlamaIndex, LLM, Python*
 
 - **Universidad Continental** — Docente de Machine Learning (Abr 2024 – Dic 2024)
   - Cursos: "Modelos de Machine Learning" y "Desarrollo de Software AI"
@@ -51,14 +51,14 @@ ref: about
 <h2><b>Premios y Reconocimientos</b></h2>
 
 <ul class="skill-list">
-	<li>🌟 <b>SALA Summit 2026</b> — Representante de Perú en IA en Latinoamérica (Quito, Ecuador)</li>
+	<li>🌟 <b>Bitcoin Virtual Hackathon – LABITCONF 2025</b> — Finalista (3.er lugar) con el proyecto "Identrip", una plataforma descentralizada de confianza turística que utiliza criptomonedas (Stacks) y reseñas validadas con Deep Learning (Buenos Aires)</li>
 	<li>🏆 <b>NASA Space Apps Challenge 2023</b> — Ganador (Arequipa)</li>
-	<li>🥈 <b>IBM Call for Code</b> — 2do Lugar ("ChatBIO")</li>
-	<li>🎓 <b>Khipu AI Scholar</b> (2019, 2025)</li>
-	<li>🎤 <b>NAACL 2024</b> — Ponente en Workshop (Ciudad de México)</li>
-	<li>🎓 <b>Deep Learning Summer School</b> — Toronto (2020)</li>
-	<li>🏅 <b>MIT Latin American AI Summit</b> — Representante (2020)</li>
-	<li>🎤 Ponente en <b>DevFest Lima 2025</b> y <b>DevFest Cusco 2019</b></li>
+	<li>🥈 <b>IBM Call for Code</b> — 2.º lugar ("ChatBIO")</li>
+	<li>🎓 <b>Khipu AI Scholar</b> (Montevideo 2019, Santiago de Chile 2025)</li>
+	<li>🎤 <b>NAACL 2024</b> — Ponente en workshop (Ciudad de México)</li>
+	<li>🎓 <b>Deep Learning Summer School</b> — (Toronto)</li>
+	<li>🏅 <b>MIT Latin American AI Summit 2020</b> — (Boston)</li>
+	<li>🎤 Ponente en <b>DevFest Lima 2025</b>, <b>DevFest Lima 2024</b>, <b>DevFest Perú 2021</b> y <b>DevFest Cusco 2019</b></li>
 </ul>
 
 <h2><b>Habilidades Técnicas</b></h2>
